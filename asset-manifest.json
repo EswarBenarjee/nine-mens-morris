@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nine-mens-morris/static/css/main.41cd6de3.css",
+    "main.js": "/nine-mens-morris/static/js/main.b2cf7ac3.js",
+    "index.html": "/nine-mens-morris/index.html",
+    "main.41cd6de3.css.map": "/nine-mens-morris/static/css/main.41cd6de3.css.map",
+    "main.b2cf7ac3.js.map": "/nine-mens-morris/static/js/main.b2cf7ac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cd6de3.css",
+    "static/js/main.b2cf7ac3.js"
+  ]
+}
